@@ -1,5 +1,5 @@
 ./git
 ./node_modules
-./style/scss.css
+./style/scss.scss
 package-lock.json
 package.json
