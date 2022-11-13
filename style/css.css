@@ -16,8 +16,8 @@ body {
   background-color: #0e93a0; }
 
 .facumid h2 {
-  display: flex;
-  justify-content: center;
+  /*     display: flex;
+    justify-content: center; */
   color: whitesmoke;
   font-size: 1em; }
 
